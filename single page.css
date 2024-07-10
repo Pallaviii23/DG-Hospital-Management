@@ -1,0 +1,92 @@
+.navbarMain{
+    /* background-color: white; */
+    height: 50px;
+    width: 100%;
+    float: left;
+    position:fixed;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+.logoimage{
+   background-color:white;
+   height: 50px;
+   width: 20%;
+   float: left;
+}
+.logo{
+    height: 50px;
+    width: 20px;
+    margin-top: -50px;
+}
+.menubar{
+    /* background-color: white; */
+    height: 50px;
+    width:80% ;
+    float: left;
+}
+.menu{
+    list-style: none;
+}
+.menu li a{
+    text-decoration: none;
+    float: left;
+    padding: 10px;
+    color:orangered;
+    font-weight: 800;
+    margin-top: -10px;
+}
+.menu li a:hover{
+    background-color: purple;
+}
+.homeSection{
+    background-color: rgb(0, 225, 255);
+    height: 600px;
+    width: 100%;
+    float:left;
+    margin-top: 10%;
+} 
+.homeSection{
+    text-align: center;
+    color:black;
+}
+.homeSection h1{
+    text-align: center;
+    color: purple;
+}
+.aboutSection{
+    background-color: blue;
+    height: 600px;
+    width: 100%;
+    float:left;
+    margin-top: -50px;
+}
+.aboutSection{
+    text-align: center;
+    color: red;
+}
+.aboutSection h1{
+    text-align: center;
+    color: purple;
+}
+.gallerySection{
+    background-color: rgb(242, 0, 255);
+    height: 600px;
+    width: 100%;
+    float:left;
+
+}
+.gallerySection{
+    text-align: center;
+    color: red;
+}
+.contactSection{
+    background-color: rgb(212, 255, 0);
+    height: 600px;
+    width: 100%;
+    float:left;
+
+}
+.contactSection{
+    text-align: center;
+    color: red;
+}
